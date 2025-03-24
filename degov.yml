@@ -23,7 +23,7 @@ chain:
     decimals: 18
 
 indexer:
-  endpoint: https://dcdao-gov.ringdao.com/indexer/graphql
+  endpoint: https://guild-gov.ringdao.com/indexer/graphql
   startBlock: 2639678
   rpc: wss://rpc.darwinia.network
 
